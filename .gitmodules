@@ -1,0 +1,3 @@
+[submodule "warehouse_req"]
+	path = warehouse_req
+	url = https://github.com/humanytek-team/warehouse_req
