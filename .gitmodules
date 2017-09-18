@@ -1,3 +1,6 @@
 [submodule "warehouse_req"]
 	path = warehouse_req
 	url = https://github.com/humanytek-team/warehouse_req
+[submodule "mrp_default_locations"]
+	path = mrp_default_locations
+	url = https://github.com/humanytek-team/mrp_default_locations
