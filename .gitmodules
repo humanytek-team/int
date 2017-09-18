@@ -7,3 +7,6 @@
 [submodule "mrp_product_unique_serial"]
 	path = mrp_product_unique_serial
 	url = https://github.com/humanytek-team/mrp_product_unique_serial
+[submodule "product_extended_without_cost_hour_wc"]
+	path = product_extended_without_cost_hour_wc
+	url = https://github.com/humanytek-team/product_extended_without_cost_hour_wc
