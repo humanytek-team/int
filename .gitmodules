@@ -4,3 +4,6 @@
 [submodule "mrp_default_locations"]
 	path = mrp_default_locations
 	url = https://github.com/humanytek-team/mrp_default_locations
+[submodule "mrp_product_unique_serial"]
+	path = mrp_product_unique_serial
+	url = https://github.com/humanytek-team/mrp_product_unique_serial
